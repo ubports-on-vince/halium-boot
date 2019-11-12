@@ -15,7 +15,8 @@
 # limitations under the License.
 #
 
-LINK_BASE="https://github.com/halium/initramfs-tools-halium/releases/download/continuous/initrd.img-touch-"
+#LINK_BASE="https://github.com/halium/initramfs-tools-halium/releases/download/continuous/initrd.img-touch-"
+LINK_BASE="https://github.com/ubports-on-vince/initramfs-tools-halium/releases/download/tas2557/initrd.img-touch-"
 
 ANROID_ARCH=$1
 TARGET=$2
